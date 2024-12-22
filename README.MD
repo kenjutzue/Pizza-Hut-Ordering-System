@@ -18,17 +18,17 @@ The code implements a simple console-based ordering system for a pizza restauran
 
 4. Receipt Printing: After the payment is processed, the user is given the option to print a receipt. If the user chooses to print the receipt, the program displays the order details, including the quantity, price, total amount, cash paid, and balance.
 
-5.Looping for New Orders: After completing an order, the program prompts the user to either order again or exit.
+5. Looping for New Orders: After completing an order, the program prompts the user to either order again or exit.
 
 ## Potential Issues
 
-1.Use of goto Statements: The code heavily relies on goto statements for flow control, which can make the code harder to read and maintain. It is generally recommended to use structured programming constructs like loops and functions instead.
+1. Use of goto Statements: The code heavily relies on goto statements for flow control, which can make the code harder to read and maintain. It is generally recommended to use structured programming constructs like loops and functions instead.
 
-2.Input Validation: While there is some input validation (e.g., checking for valid menu choices), it could be improved. For example, the program does not handle non-numeric input for quantities and payments, which could lead to runtime errors.
+2. Input Validation: While there is some input validation (e.g., checking for valid menu choices), it could be improved. For example, the program does not handle non-numeric input for quantities and payments, which could lead to runtime errors.
 
-3.Hardcoded Values: The cashier names, order numbers, and other details are hardcoded. This could be improved by using variables or functions to generate these values dynamically.
+3. Hardcoded Values: The cashier names, order numbers, and other details are hardcoded. This could be improved by using variables or functions to generate these values dynamically.
 
-4.Repeated Code: There is a lot of repeated code for handling each pizza set. This could be refactored into functions to reduce redundancy and improve maintainability.
+4. Repeated Code: There is a lot of repeated code for handling each pizza set. This could be refactored into functions to reduce redundancy and improve maintainability.
 
 5. Magic Numbers: The prices for the pizza sets are hardcoded as constants, which is fine, but it would be better to use an array or a data structure to manage them, especially if the menu changes frequently.
 
