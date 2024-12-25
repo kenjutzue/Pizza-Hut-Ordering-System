@@ -38,6 +38,6 @@ The code implements a simple console-based ordering system for a pizza restauran
 
 The code is functional and implements the desired features for a pizza ordering system. However, it could benefit from improvements in structure, readability, and user input handling. These notes should be understand the logic behind the code and identify areas for potential enhancement.
 
-## This Code was been use for defense presentation in final term of my project for educational purposes
+## This code was used for the defense presentation in the final term of my project for educational purposes
 
 This code was used for the final defense presentation, demonstrating how users can interact with a simple console-based ordering system for a pizza restaurant. It allows users to select from a menu of pizza sets, specify whether they want to dine in or take out, enter the quantity, make a payment, and optionally print a receipt. My project was been approved by Ma'am [Loren Rose Abad](https://www.facebook.com/lorenroseabad) for giving us an requirements, although this code was not made in ai generated and not too much to help someone with making a project code that is not making an enough efforts, which could lead a lack of critical thinking and problem-solving skills, as students may not learn to tackle challenges independently (also known as spoonfed). if you want to learn from c++ to master it, you can try watch at [freeCodeCamp.Org](https://www.youtube.com/@freecodecamp) for their youtube channel to master your skills in c++ course.
