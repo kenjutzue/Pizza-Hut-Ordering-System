@@ -7,13 +7,12 @@ The code implements a simple console-based ordering system for a pizza restauran
 1. **Menu Display**: The program displays a menu with different pizza sets and their prices. Each set has a specific price associated with it.
 
 2. **User Input Handling**: The program uses a series of switch statements and goto statements to navigate through different parts of the program based on user input. 
-   This includes:
-   
-Choosing to continue or exit the program.
-   -Selecting a pizza set.
-   -Choosing between dine-in or take-out options.
-   -Entering the quantity of pizzas.
-   -Making a payment and checking if it is sufficient.
+**This includes**:
+- Choosing to continue or exit the program.
+- Selecting a pizza set.
+- Choosing between dine-in or take-out options.
+- Entering the quantity of pizzas.
+- Making a payment and checking if it is sufficient.
 
 3. **Payment Processing**: The program checks if the payment made by the user is sufficient to cover the total cost of the order. If not, it prompts the user to enter the payment again.
 
