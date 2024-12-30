@@ -1,8 +1,14 @@
-# Overview of my Code
+# Pizza Hut Ordering System
 
 The code implements a simple console-based ordering system for a pizza restaurant. It allows users to select from a menu of pizza sets, specify whether they want to dine in or take out, enter the quantity, make a payment, and optionally print a receipt.
 
+## Table of Contents
+
 ## Key Components
+- [Key Components](#key components)
+- [Potential Issues](#potential issues)
+- [Conclusion](#Conclusion)
+- [This code was used for the defense presentation in the final term of my project for educational purposes](This code was used for the defense presentation in the final term of my project for educational purposes)
 
 1. **Menu Display**: The program displays a menu with different pizza sets and their prices. Each set has a specific price associated with it.
 
