@@ -6,7 +6,7 @@ This project implements a simple console-based ordering system for a pizza resta
 - [Features](#Features)
 - [Issues](#issues)
 - [Conclusion](#conclusion)
-- [Final Midterm](#Final Midterm)
+- [Final Midterm](#final midterm)
 
 ## Features
 
