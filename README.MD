@@ -6,7 +6,7 @@ This project implements a simple console-based ordering system for a pizza resta
 - [Features](#Features)
 - [Issues](#issues)
 - [Conclusion](#conclusion)
-- [Final Midterm](#final midterm)
+- [Finals](#finals)
 
 ## Features
 
@@ -45,7 +45,7 @@ This project implements a simple console-based ordering system for a pizza resta
 
 This project is functional and implements the desired features for a pizza ordering system. However, it could benefit from improvements in structure, readability, and user input handling. These notes should be understand the logic behind the code and identify areas for potential enhancement.
 
-## Final Midterm
+## Finals
 
 This project was used for the final defense presentation, demonstrating how users can interact with a simple console-based ordering system for a pizza restaurant. It allows users to select from a menu of pizza sets, specify whether they want to dine in or take out, enter the quantity, make a payment, and optionally print a receipt. My project was approved by Ma'am [Loren Rose Abad](https://www.facebook.com/lorenroseabad) who provided us with the requirements. Although this code was not AI-generated, it may not sufficiently assist someone in creating a project code without putting in enough effort, which could lead to a lack of critical thinking and problem-solving skills, as students may not learn to tackle challenges independently (also known as being spoon-fed).  If you want to learn C++ and master it, you can try watching the [freeCodeCamp.Org](https://www.youtube.com/@freecodecamp) Youtube channel for their C++ course to enhance your skills.
 
