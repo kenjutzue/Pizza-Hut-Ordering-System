@@ -1,4 +1,4 @@
-/* Group Names: Kent R. Grefiel, Rainiel Codoy
+/* Group Names: Kent R. Grefiel
    Date of Submission: December 16, 2024
    Project Name: "Pizza Hut Ordering System"	 
 */
