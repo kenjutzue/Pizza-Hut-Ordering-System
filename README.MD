@@ -43,7 +43,7 @@ This project implements a simple console-based ordering system for a pizza resta
 
 ## Conclusion
 
-The code is functional and implements the desired features for a pizza ordering system. However, it could benefit from improvements in structure, readability, and user input handling. These notes should be understand the logic behind the code and identify areas for potential enhancement.
+This project is functional and implements the desired features for a pizza ordering system. However, it could benefit from improvements in structure, readability, and user input handling. These notes should be understand the logic behind the code and identify areas for potential enhancement.
 
 ## Finals
 
