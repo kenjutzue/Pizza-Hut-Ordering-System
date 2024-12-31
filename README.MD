@@ -28,7 +28,7 @@ This project implements a simple console-based ordering system for a pizza resta
 
 5. **Looping for New Orders**: After completing an order, the program prompts the user to either order again or exit.
 
-## Potential Issues
+## Issues
 
 1. **Use of goto Statements**: The code heavily relies on goto statements for flow control, which can make the code harder to read and maintain. It is generally recommended to use structured programming constructs like loops and functions instead.
 
