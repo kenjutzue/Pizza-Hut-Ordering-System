@@ -62,7 +62,7 @@ Adding a loyalty points system. This feature can reward customers with points fo
 
 This project is functional and implements the desired features for a pizza ordering system. However, it could benefit from improvements in structure, readability, and user input handling. These notes should be understand the logic behind the code and identify areas for potential enhancement.
 
-### For an update on my project
+## For an update on my project
 
 For this purpose, I recommend updating my project and the README.md file, as well as adding features based on my ideas. If you have any further questions, please feel free to contact me on my Telegram account at [Kent Grefiel](https://t.me/kenjutzue) so that you can ask to recommended of adding features of my project.
 
