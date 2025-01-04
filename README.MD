@@ -2,7 +2,7 @@
 This project implements a simple console-based ordering system for a pizza restaurant. It allows users to select from a menu of pizza sets, specify whether they want to dine in or take out, enter the quantity, make a payment, and optionally print a receipt.
 
 ## Table of Contents
-- [Overview of my Project](#overview-of-my-project)
+
 - [Key Components](#key-components)
 - [Potential Issues](#potential-issues)
 - [Conclusion](#conclusion)
