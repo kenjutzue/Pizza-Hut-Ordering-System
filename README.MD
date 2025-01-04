@@ -1,15 +1,16 @@
-# Pizza Hut Ordering System
-
+# Overview of my Project
 This project implements a simple console-based ordering system for a pizza restaurant. It allows users to select from a menu of pizza sets, specify whether they want to dine in or take out, enter the quantity, make a payment, and optionally print a receipt.
 
 ## Table of Contents
-- [Features](#Features)
-- [Issues](#issues)
+- [Overview of my Project](#overview-of-my-project)
+- [Key Components](#key-components)
+- [PotentialIssues](#potential-issues)
 - [Conclusion](#conclusion)
-- [Finals](#finals)
+- [For an update on my project](#for-an-update-of-my-project)
+- [For Final Term](#for-final-term-for-defense)
 - [License](#license)
 
-## Features
+## Key Components
 
 1. **Menu Display**: The program displays a menu with different pizza sets and their prices. Each set has a specific price associated with it.
 
@@ -42,13 +43,32 @@ This project implements a simple console-based ordering system for a pizza resta
 
 6. **User Experience**: The user experience could be enhanced by providing clearer instructions and feedback. For example, after a successful order, the program could summarize the order before asking if the user wants to print a receipt.
 
+## What's New Features:
+Adding a loyalty points system. This feature can reward customers with points for every order they make, which they can later redeem for discounts or free items. 
+
+**Here is a feature below**: 
+
+1. **Define a Points System**: Decide how many points a customer earns per order. For example, you could give 1 point for every 10 pesos spent.
+
+2. **Store Points**: Create a variable to store the total points for the customer. You can initialize it at the start of the program.
+
+3. **Update Points After Each Order**: After the payment is processed, calculate the points earned based on the total cost of the order and add them to the customer's total points.
+
+4. **Display Points**: After each order, display the total loyalty points the customer has accumulated.
+
+5. **Redemption Option**: Optionally, you can add a feature that allows customers to redeem their points for discounts on future orders.
+
 ## Conclusion
 
 This project is functional and implements the desired features for a pizza ordering system. However, it could benefit from improvements in structure, readability, and user input handling. These notes should be understand the logic behind the code and identify areas for potential enhancement.
 
-## Finals
+### For an update on my project
 
-This project was used for the final defense presentation, demonstrating how users can interact with a simple console-based ordering system for a pizza restaurant. It allows users to select from a menu of pizza sets, specify whether they want to dine in or take out, enter the quantity, make a payment, and optionally print a receipt. My project was approved by Ma'am [Loren Rose Abad](https://www.facebook.com/lorenroseabad) who provided us with the requirements. Although this code was not AI-generated, it may not sufficiently assist someone in creating a project code without putting in enough effort, which could lead to a lack of critical thinking and problem-solving skills, as students may not learn to tackle challenges independently (also known as being spoon-fed).  If you want to learn C++ and master it, you can try watching the [freeCodeCamp.Org](https://www.youtube.com/@freecodecamp) Youtube channel for their C++ course to enhance your skills.
+For this purpose, I recommend updating my project and the README.md file, as well as adding features based on my ideas. If you have any further questions, please feel free to contact me on my Telegram account at [Kent Grefiel](https://t.me/kenjutzue) so that you can ask to recommended of adding features of my project.
 
-# License 
+## For Final Term for Defense
+
+This project was used for the final term in defense presentation, demonstrating how users can interact with a simple console-based ordering system for a pizza restaurant. It allows users to select from a menu of pizza sets, specify whether they want to dine in or take out, enter the quantity, make a payment, and optionally print a receipt. My project was approved by Ma'am [Loren Rose Abad](https://www.facebook.com/lorenroseabad) who provided us with the requirements. Although this code was not 100% AI-generated, it may not sufficiently assist someone in creating a project code without putting in enough effort, which could lead to a lack of critical thinking and problem-solving skills, as students may not learn to tackle challenges independently (also known as being spoon-fed). If you want to learn C++ and master it, you can try watching the [freeCodeCamp.Org](https://www.youtube.com/@freecodecamp) Youtube channel for their C++ course to enhance your skills.
+
+## License 
 This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute this project for educational or commercial purposes.
