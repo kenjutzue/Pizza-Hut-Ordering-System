@@ -6,7 +6,7 @@ This project implements a simple console-based ordering system for a pizza resta
 - [Key Components](#key-components)
 - [PotentialIssues](#potential-issues)
 - [Conclusion](#conclusion)
-- [For an update on my project](#for-an-update-of-my-project)
+- [For an update on my project](#for-an-update-on-my-project)
 - [For Final Term](#for-final-term-for-defense)
 - [License](#license)
 
