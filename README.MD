@@ -43,28 +43,13 @@ This project implements a simple console-based ordering system for a pizza resta
 
 6. **User Experience**: The user experience could be enhanced by providing clearer instructions and feedback. For example, after a successful order, the program could summarize the order before asking if the user wants to print a receipt.
 
-## What's New Features:
-Adding a loyalty points system. This feature can reward customers with points for every order they make, which they can later redeem for discounts or free items. 
-
-**Here is a feature below**: 
-
-1. **Define a Points System**: Decide how many points a customer earns per order. For example, you could give 1 point for every 10 pesos spent.
-
-2. **Store Points**: Create a variable to store the total points for the customer. You can initialize it at the start of the program.
-
-3. **Update Points After Each Order**: After the payment is processed, calculate the points earned based on the total cost of the order and add them to the customer's total points.
-
-4. **Display Points**: After each order, display the total loyalty points the customer has accumulated.
-
-5. **Redemption Option**: Optionally, you can add a feature that allows customers to redeem their points for discounts on future orders.
-
 ## Conclusion
 
 This project is functional and implements the desired features for a pizza ordering system. However, it could benefit from improvements in structure, readability, and user input handling. These notes should be understand the logic behind the code and identify areas for potential enhancement.
 
 ## For an update on my project
 
-For this purpose, I recommend updating my project and the README.md file, as well as adding features based on my ideas. If you have any further questions, please feel free to contact me on my Telegram account at [Kent Grefiel](https://t.me/kenjutzue) so that you can ask to recommended of adding features of my project.
+For this purpose, I recommend updating my project in **pizza hut ordering system**, as well as adding features based on my ideas. If you have any further questions, please feel free to contact me on my Telegram account at [Kent Grefiel](https://t.me/kenjutzue) so that you can ask to recommended of adding features of my project.
 
 ## For Final Term for Defense
 
