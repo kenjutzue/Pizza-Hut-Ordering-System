@@ -1,4 +1,5 @@
 # Overview of my Project
+
 This project implements a simple console-based ordering system for a pizza restaurant. It allows users to select from a menu of pizza sets, specify whether they want to dine in or take out, enter the quantity, make a payment, and optionally print a receipt.
 
 ## Table of Contents
@@ -49,7 +50,7 @@ This project is functional and implements the desired features for a pizza order
 
 ## For an update on my project
 
-For this purpose, I recommend updating my project in **pizza hut ordering system**, as well as adding features based on my ideas. If you have any further questions, please feel free to contact me on my Telegram account at [Kent Grefiel](https://t.me/kenjutzue) so that you can ask to recommended of adding features of my project.
+I recommend updating my project on the Pizza Hut ordering system and adding features based on my ideas. If you have any further questions, please feel free to contact me on my Telegram account,[Kent Grefiel](https://t.me/kenjutzue), so we can discuss recommended features for my project.
 
 ## For Final Term for Defense
 
