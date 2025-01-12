@@ -50,7 +50,7 @@ This project is functional and implements the desired features for a pizza order
 
 ## For an update on my project
 
-I recommend updating my project on the Pizza Hut ordering system and adding features based on my ideas. If you have any further questions, please feel free to contact me on my Telegram account,[Kent Grefiel](https://t.me/kenjutzue), so we can discuss recommended features for my project.
+I recommend updating my project on the Pizza Hut ordering system and adding features based on my ideas. If you have any further questions, please feel free to contact me on my Telegram account, [Kent Grefiel](https://t.me/kenjutzue), so we can discuss recommended features for my project.
 
 ## For Final Term for Defense
 
